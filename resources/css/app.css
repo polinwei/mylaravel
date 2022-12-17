@@ -1,0 +1,10 @@
+
+/** Ninestars: Vendor CSS Files */
+@import url('../ninestars/vendor/aos/aos.css');
+@import url('../ninestars/vendor/bootstrap/css/bootstrap.min.css');
+@import url('../ninestars/vendor/bootstrap-icons/bootstrap-icons.css');
+@import url('../ninestars/vendor/boxicons/css/boxicons.min.css');
+@import url('../ninestars/vendor/glightbox/css/glightbox.min.css');
+@import url('../ninestars/vendor/swiper/swiper-bundle.min.css');
+/** Ninestars: Template Main CSS File */
+@import url('../ninestars/css/style.css');
